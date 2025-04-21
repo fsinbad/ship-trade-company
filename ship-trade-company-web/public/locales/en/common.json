@@ -1,6 +1,154 @@
 {
-  "home": "Home",
-  "products": "Products",
-  "about_us": "About Us",
-  "contact_us": "Contact Us"
+  "company_name": "Nantong Murong Electric Co., Ltd",
+  "company_description": "Nantong Murong Electric Co., Ltd",
+  "contact_us": "Contact Us",
+  
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about_us": "About Us",
+    "contact_us": "Contact Us"
+  },
+
+  "header": {
+    "logo_alt": "Nantong Murong Electric Equipment Company Logo"
+  },
+
+  "home": {
+    "hero_title": "Your Trusted Ship Repair and Parts Supplier",
+    "hero_subtitle": "A Solid Foundation for Smooth Sailing",
+    "services_title": "Our Services",
+    "view_all_services": "View All Services",
+    
+    "services": [
+      {
+        "title": "Ship Repair",
+        "desc": "We provide comprehensive ship repair services including maintenance and repair of electrical systems, engines and other critical components."
+      },
+      {
+        "title": "Shore Power Conversion",
+        "desc": "We specialize in the design, installation and upgrading of ship shore power systems to help vessels use clean electricity in ports, reducing emissions and pollution."
+      },
+      {
+        "title": "Parts Supply",
+        "desc": "We provide various high-quality marine parts to ensure your vessel always maintains optimal operating condition."
+      }
+    ],
+
+    "shore_power": {
+      "title": "Shore Power Conversion Project",
+      "image_alt": "Shore power conversion project diagram",
+      "content": [
+        "With extensive technical experience, we provide customized shore power solutions for various types of vessels. Mainly divided into low-voltage and high-voltage solutions, suitable for different types and sizes of ships.",
+        "Low-voltage shore power conversion is mainly suitable for small and medium-sized port facilities. The low-voltage system features simple operation, lower costs, meets basic berthing power requirements, and offers high flexibility.",
+        "For large vessels such as container ships, oil tankers and cargo ships, we provide high-voltage shore power conversion services to meet high-power demands. The high-voltage system adopts advanced power distribution control technology to ensure efficient power transmission and usage, with comprehensive safety protection measures to guarantee secure power connections.",
+        "We provide full-process technical support including system design, installation, commissioning and maintenance to ensure stable operation of shore power systems. We cooperate with port authorities to ensure installations comply with international standards and meet requirements of ship owners and operators. By providing clean and efficient shore power solutions, we promote sustainable development in the shipping industry and contribute to carbon neutrality goals.",
+        "After implementing shore power conversion, customers can significantly reduce fuel costs, decrease equipment wear and maintenance expenses, while complying with environmental regulations of the International Maritime Organization (IMO). Our goal is to provide environmentally friendly, economical and safe power support for every berthed vessel, assisting ports and the shipping industry in moving toward green and intelligent development."
+      ]
+    },
+
+    "products": {
+      "title": "Our Products",
+      "view_details": "View Details",
+      "type": "Type: ",
+      "items": [
+        {"name": "Generator System", "type": "Electrical Equipment"},
+        {"name": "Cargo Hold Water Alarm", "type": "Alarm Device"},
+        {"name": "Incinerator", "type": "Control Device"},
+        {"name": "Boiler", "type": "Control Device"},
+        {"name": "PA/Intercom", "type": "Communication Device"},
+        {"name": "Main Switch Test", "type": "Instrument Device"},
+        {"name": "Meter Test", "type": "Instrument Device"},
+        {"name": "Oil Separator", "type": "Electrical Device"}
+      ]
+    }
+  },
+
+  "carousel": {
+    "alt1": "Ship repair site photo",
+    "alt2": "Shore power conversion project case",
+    "alt3": "Marine parts warehouse display"
+  },
+  "footer": {
+    "contact_title": "Contact Us",
+    "contact_description": "If you need ship repair services or are looking for specific marine parts, please feel free to contact us.",
+    "phone": "+86 15682112719",
+    "email": "hmm@rongelec.com",
+    "copyright": "Copyright {company} [DMG] All rights reserved.",
+    "beian_logo_alt": "ICP Record Logo",
+    "beian_number": "ICP Record No.2024135352",
+    "tech_support": "Technical Support: Alibaba Cloud"
+  },
+  "about": {
+    "company_image_alt": "Company Overview of Nantong Murong Electric Equipment",
+    "company_description": [
+      "Nantong Murong Electric Equipment Co., Ltd. is a company specializing in ship repair, parts supply and shore power conversion, committed to providing customers with high-quality services and efficient solutions. We have been deeply involved in the maritime industry for many years, with over 15 years of experience and technical expertise, serving customers both domestically and internationally.",
+      "Our business covers ship repair, parts supply and shore power conversion projects. Our professional team can provide repair services for electrical systems, engines and other important equipment for various types of ships to ensure your vessel remains in optimal condition. At the same time, we provide a variety of high-quality marine parts to help customers quickly solve parts replacement needs.",
+      "In addition, we also provide shore power conversion services to help ships use land-based power during port stays, reducing pollution and operating costs. We are committed to providing customers with environmentally friendly and reliable shore power solutions to ensure sustainable operation of ships."
+    ],
+    "services_title": "Our Services",
+    "services": [
+      {
+        "title": "Ship Repair",
+        "desc": "We provide comprehensive ship repair services including maintenance and repair of electrical systems, engines and other critical components."
+      },
+      {
+        "title": "Shore Power Conversion",
+        "desc": "We specialize in the design, installation and upgrading of ship shore power systems to help vessels use clean electricity in ports, reducing emissions and noise."
+      },
+      {
+        "title": "Parts Supply",
+        "desc": "We provide various high-quality marine parts to ensure your vessel always maintains optimal operating condition."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "labels": {
+      "name": "Your Name *",
+      "email": "Email *",
+      "subject": "Subject",
+      "details": "Message *",
+      "captcha": "Captcha *",
+      "confirm": "Please confirm before submitting *Required"
+    },
+    "char_limit": "* Maximum 300 characters",
+    "refresh_captcha": "Click captcha to refresh",
+    "submit": "Submit",
+    "errors": {
+      "name_length": "Name cannot exceed 20 characters",
+      "email_invalid": "Invalid email address or exceeds 30 characters",
+      "subject_length": "Subject cannot exceed 20 characters",
+      "details_length": "Message cannot exceed 300 characters",
+      "captcha_invalid": "Invalid captcha, please try again"
+    },
+    "confirm_alert": "Please confirm before submitting",
+    "success_alert": "Email sent successfully!",
+    "error_alert": "Failed to send email, please try again later"
+  },
+  "products": {
+    "title": "Our Products",
+    "search_placeholder": "Search products...",
+    "search_button": "Search",
+    "no_results": "No matching products found.",
+    "type": "Type: ",
+    "items": [
+      { "name": "Generator System", "type": "Electrical Equipment" },
+      { "name": "Cargo Hold Water Alarm", "type": "Alarm Device" },
+      { "name": "Incinerator", "type": "Control Device" },
+      { "name": "Boiler", "type": "Control Device" },
+      { "name": "PA/Intercom", "type": "Communication Device" },
+      { "name": "Main Switch Test", "type": "Instrument Device" },
+      { "name": "Meter Test", "type": "Instrument Device" },
+      { "name": "Oil Separator", "type": "Electrical Device" },
+      { "name": "Motor Inverter", "type": "Starting Device" },
+      { "name": "Main Engine Oil Mist Detector", "type": "Detection Device" },
+      { "name": "15PPM Detection", "type": "Detection Device" },
+      { "name": "Emergency Generator", "type": "Detection Device" },
+      { "name": "Main Engine Remote Control", "type": "Control Device" },
+      { "name": "ICCP Detection", "type": "Detection Device" },
+      { "name": "Main Engine Thermostat", "type": "Control Device" },
+      { "name": "General Alarm System", "type": "Alarm Device" }
+    ]
+  }
 }
